@@ -1,0 +1,6 @@
+{
+  "name": "KitabGhar",
+  "description": "Free in-app book, poetry & PDF reader. Search books and authors, read offline in customized reader, and download directly to internal app storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
